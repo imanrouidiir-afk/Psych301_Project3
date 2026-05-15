@@ -1,1 +1,1 @@
-# Psych301_Project3
+# heartbeat-locked-visual-perception-ecg
